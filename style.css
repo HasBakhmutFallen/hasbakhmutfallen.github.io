@@ -1,7 +1,12 @@
-/* Place your CSS styles in this file */
-
-h1 {
-     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Change font */
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Has Bakhmut Fallen?</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Change font */
         background-color: #fff;
         margin: 0;
         padding: 0;
@@ -13,5 +18,12 @@ h1 {
         font-size: 120pt;
         text-align: center;
         margin: 0;
-        font-weight: ;
+        font-weight: bold;
         color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>NO</h1>
+  </body>
+</html>
